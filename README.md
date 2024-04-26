@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Stezzly's GitHub stats](github-readme-stats-git-master-stezzlys-projects.vercel.app/api?username=Stezzly)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Stezzly/github-readme-stats))
+[![Stezzly's GitHub stats](https://github-readme-stats-ff2zuyand-stezzlys-projects.vercel.app/api?username=Stezzly&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
