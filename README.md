@@ -159,3 +159,10 @@ An instant messaging app with secure authentication, online status tracking, and
   
   *"Code is poetry, and every project is a story waiting to be told."* ✨
 </div> 
+
+---
+<div align="center">
+  <p> <strong>Also check out my secondary account:</strong></p>
+  <p><a href="https://github.com/SearchingSteve">@SearchingSteve</a> for more projects</p>
+</div> 
+
